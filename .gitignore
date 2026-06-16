@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Datasets and model inputs (provide locally)
+datasets/
+refined-set/
+
+
+.DS_Store
+.ipynb_checkpoints/
