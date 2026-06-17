@@ -21,13 +21,13 @@ dataset codes:
 unified_experiment.py        # orchestrator / CLI entry point
 experiments/
     __init__.py
-    classification.py         # logic from threshold_experiment-v4.py
-    pdbbind.py                # logic from pdbbind-optimized.py
-    qm9.py                    # logic from unified_continuous_experiment.py
+    classification.py        
+    pdbbind.py                
+    qm9.py                  
 requirements.txt
 README.md
-datasets/                     # you provide (see below)
-refined-set/                  # you provide (PDBbind only)
+datasets/                   
+refined-set/                 
 ```
 
 ## Installation
