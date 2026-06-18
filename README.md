@@ -6,6 +6,8 @@ information_ fed to a message-passing network affects predictive performance,
 by sweeping a set of "distance approximation levels" from purely topological
 estimates up to true 3D geometry.
 
+Note: Pharma-JEGNN wherever mentioned refers to Flexi-JEGNN [Updated later]
+
 The three experiments are fully self-contained and never share data, models, or
 dataset codes:
 
